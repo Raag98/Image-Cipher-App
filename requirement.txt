@@ -1,0 +1,9 @@
+cffi==1.15.0
+cryptography==36.0.0
+numpy==1.21.4
+opencv-python==4.5.4.60
+opencv-python-headless==4.5.4.60
+pybase64==1.2.0
+pycparser==2.21
+PySimpleGUI==4.55.1
+tk==0.1.0
